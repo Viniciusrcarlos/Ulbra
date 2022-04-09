@@ -1,0 +1,66 @@
+.tudo{
+    width: 60%;
+    border: solid 1px #000;
+    margin: 0 auto;
+    padding: 30px 30px 30px 30px;
+    border-radius: 5px;
+    
+}
+
+.linha{
+    clear: both;
+}
+
+#titulo{
+    text-align: center;
+    background-color: rgb(131, 2, 2);
+    color: #fff;
+    margin-top: 0px;
+    padding: 10px;
+    border-radius: 40px;
+}
+
+img{
+    max-width: 200px;
+    max-height: 200px;
+    border-radius: 10%;
+}
+
+#foto{
+    width: 20%;
+    float: left;
+}
+#dados{
+    width: 80%;
+    float: right;
+}
+
+h2{
+    color: rgb(131, 2, 2);
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+#habilidades{
+    width: 45%;
+    float: left;
+}
+
+#expprof{
+    width: 45%;
+    float: right;
+}
+
+#meio{
+    width: 10%;
+    float: left;
+
+}
+
+#itens{
+    color:rgb(131, 2, 2);
+}
+
+#hab{
+    color: rgb(131, 2, 2);
+}

@@ -1,4 +1,6 @@
-table{
-    border: solid 1px;
 
+
+table,td{
+    text-align: center;
+    border: solid 1px;
 }
